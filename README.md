@@ -7,4 +7,5 @@
 - Вывод результата в письменном виде
 
 #### Скриншоты тестов приведены ниже:
-![image](https://github.com/xXady/bankomat/assets/102038515/052d1e37-12d8-488c-9f68-4178c58b39bd)
+![image](https://github.com/xXady/bankomat/assets/102038515/7c6ac559-9b16-420a-b737-cc302cb9b596)
+
